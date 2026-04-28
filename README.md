@@ -6,4 +6,8 @@ Chatbot em Python para responder perguntas com base em arquivos `.txt` ou `.md` 
 
 ## Usage
 
+Crie um arquivo `.env` na raiz do projeto com:
+
+`GEMINI_API_KEY=sua_chave`
+
 ## License
